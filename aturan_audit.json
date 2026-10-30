@@ -1,0 +1,49 @@
+[
+    {
+        "kategori": "Laboratorium",
+        "trigger": [
+            "laboratorium",
+            "darah rutin",
+            "kimia klinik",
+            "biaya lab"
+        ],
+        "syarat": [
+            "hasil pemeriksaan laboratorium",
+            "hemoglobin",
+            "leukosit",
+            "trombosit"
+        ],
+        "pesan_gagal": "Tidak Ada Hasil Lab"
+    },
+    {
+        "kategori": "Radiologi",
+        "trigger": [
+            "radiologi",
+            "rontgen",
+            "thorax",
+            "usg"
+        ],
+        "syarat": [
+            "ekspertise",
+            "hasil pemeriksaan radiologi",
+            "kesan"
+        ],
+        "pesan_gagal": "Tidak Ada Ekspertise Radiologi"
+    },
+    {
+        "kategori": "Laboratorium",
+        "trigger": [
+            "laboratorium",
+            "darah rutin",
+            "kimia klinik",
+            "biaya lab"
+        ],
+        "syarat": [
+            "hasil pemeriksaan laboratorium",
+            "hemoglobin",
+            "leukosit",
+            "trombosit"
+        ],
+        "pesan_gagal": "Tidak Ada Hasil Lab"
+    }
+]
